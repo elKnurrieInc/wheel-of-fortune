@@ -1,0 +1,1 @@
+{"name":"wheel-of-fortune","version":"1.0.0","homepage":"https://elknurrieInc.github.io/wheel-of-fortune","scripts":{"deploy":"gh-pages -d ."},"devDependencies":{"gh-pages":"^6.3.0"}}
